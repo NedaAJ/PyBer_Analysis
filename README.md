@@ -6,4 +6,7 @@ You can find the analysis file here: [PyBer_Analysis](https://github.com/NedaAJ/
 
 ## Results
 
+![PyBer_summary.PNG](Analysis/PyBer_summary.PNG)
+
+![PyBer_fare_summary.png](Analysis/PyBer_fare_summary.png)
 ## Summary
