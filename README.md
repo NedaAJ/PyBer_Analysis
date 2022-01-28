@@ -10,7 +10,7 @@ From the summary dataframe (shown below), we can see a trend between the *popula
 
 ![PyBer_summary.PNG](Analysis/PyBer_summary.PNG)
 
-
 ### Deliverable 2
+As you can see below, with multiple-line chart, we can compare **total fares by city type** over a period of *five months*. The number of rides has peak at the *end of February* and fluctuates during the month of March. All the line graphs seem to follow the same trend throughout these months, except for **suburban cities**, where we see a more intense increase during **April**.
 ![PyBer_fare_summary.png](Analysis/PyBer_fare_summary.png)
 ## Summary
